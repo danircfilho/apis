@@ -1,0 +1,30 @@
+{
+  "name": "api-axios",
+  "version": "1.0.0",
+  "description": "API axios",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danircfilho/apis.git"
+  },
+  "keywords": [
+    "API",
+    "axios"
+  ],
+  "author": "Daniel Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danircfilho/apis/issues"
+  },
+  "homepage": "https://github.com/danircfilho/apis#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
